@@ -1,4 +1,4 @@
-# processing-minigames
+# Processing-Minigames
 A collection of three Java minigames built using the Processing framework. These interactive projects focus on object-oriented programming, user input, and real-time animation within factory and assembly-line themes
 
 ## 📘 Included Projects
